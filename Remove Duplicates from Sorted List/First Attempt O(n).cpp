@@ -8,6 +8,12 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+/*
+RT: 11ms, 18.96%
+MEM: 17 MB, 5.68%
+*/
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
