@@ -11,3 +11,5 @@ Problems to re-do in the future
 * Enumerate, Total value
 - Counting Bits
 * Iteration of Numbers through bitwise operations
+- Move Zeroes
+* Two Pointer Review
