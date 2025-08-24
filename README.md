@@ -13,3 +13,5 @@ Problems to re-do in the future
 * Iteration of Numbers through bitwise operations
 - Move Zeroes
 * Two Pointer Review
+- Find Max Avarage
+* Review Sliding Windows (Static, Dynamic)
