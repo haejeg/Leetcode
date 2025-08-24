@@ -5,13 +5,13 @@ For myself to keep track of leetcode problems & solutions
 
 Problems to re-do in the future
 
-- Product of Array Except Self
+#### Product of Array Except Self
 * Prefix and Suffix
-- Find Pivot Index (Full Optimization)
+#### Find Pivot Index (Full Optimization)
 * Enumerate, Total value
-- Counting Bits
+#### Counting Bits
 * Iteration of Numbers through bitwise operations
-- Move Zeroes
+#### Move Zeroes
 * Two Pointer Review
-- Find Max Avarage
+#### Find Max Average
 * Review Sliding Windows (Static, Dynamic)
