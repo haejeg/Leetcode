@@ -15,3 +15,5 @@ Problems to re-do in the future
 * Two Pointer Review
 #### Find Max Average
 * Review Sliding Windows (Static, Dynamic)
+#### Delete the Middle Node of a Linked List
+* Redo to remind concept
