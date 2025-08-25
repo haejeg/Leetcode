@@ -17,3 +17,5 @@ Problems to re-do in the future
 * Review Sliding Windows (Static, Dynamic)
 #### Delete the Middle Node of a Linked List
 * Redo to remind concept
+#### Equal Row and Column Pairs
+* Multiply
