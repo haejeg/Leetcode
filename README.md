@@ -19,3 +19,5 @@ Problems to re-do in the future
 * Redo to remind concept
 #### Equal Row and Column Pairs
 * Multiply
+#### Increasing Triple Subsequence
+* View the problem from different angles
