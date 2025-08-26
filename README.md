@@ -1,3 +1,5 @@
+## Achievements
+* Finished Array / String in Leetcode 75 (8/ 26 / 2025)
 
 ## Leetcode Progress
 
